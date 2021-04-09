@@ -1,5 +1,9 @@
 <h1>Hi I'm Tanakan, Welcome to my Github profile 👋 </h1>
 
+😄 MyName: Tankan
+I'am 19 Year old.
+== Love Coding So Much ==
+
 ![Tanakan](https://i.pinimg.com/564x/07/ea/bf/07eabf9a86c80afc2c8656113ad2cf1b.jpg)
 <!--
 **baadnk7777777/baadnk7777777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
