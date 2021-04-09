@@ -1,6 +1,6 @@
 <h1>Hi I'm Tanakan, Welcome to my Github profile 👋 </h1>
 
-![Tanakan] (https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.6435-9/118313264_2564647227199438_3131005089168025288_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=8gUv-z1n5dUAX9dhqfe&_nc_ht=scontent.fbkk10-1.fna&oh=f9af67a4989188c51e4f797924ad1463&oe=6096E75C)
+![Tanakan](https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.6435-9/118313264_2564647227199438_3131005089168025288_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=8gUv-z1n5dUAX9dhqfe&_nc_ht=scontent.fbkk10-1.fna&oh=f9af67a4989188c51e4f797924ad1463&oe=6096E75C)
 <!--
 **baadnk7777777/baadnk7777777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
