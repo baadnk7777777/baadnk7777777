@@ -1,8 +1,8 @@
 <h1>Hi I'm Tanakan, Welcome to my Github profile 👋 </h1>
 
-😄 MyName: Tankan
-I'am 19 Year old.
-== Love Coding So Much ==
+😄 MyName: Tankan <br>
+I'am 19 Year old. <br>
+== Love Coding So Much == <br>
 
 ![Tanakan](https://i.pinimg.com/564x/07/ea/bf/07eabf9a86c80afc2c8656113ad2cf1b.jpg)
 <!--
